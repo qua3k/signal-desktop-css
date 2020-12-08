@@ -1,0 +1,8 @@
+@media (max-width: 750px) {
+  .gutter {
+    width: 80px;
+  }
+  .module-left-pane__header {
+    display: none;
+  }
+}
